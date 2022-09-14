@@ -13,5 +13,5 @@ My passion lies in solving problems with tailored algorithms and communicating c
 In my undergraduate studies, I’ve taken on various leadership roles including being President of KISAC (Korean International Society for Academics and Career), mentoring Korean undergraduate underclassmen via coffee chats, and coordinating institute-wide career events for international students.
 
 
-I graduated in May 2022 and I'm interested in full-time software engineering roles. Please feel free to get in touch with me via email at jp3645@columbia.edu.
+I graduated in May 2022 and I'm interested in full-time software engineering roles. Please feel free to get in touch with me via email at juon0805@gmail.com .
 
