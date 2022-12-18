@@ -1,5 +1,5 @@
 
-<br><br><div align=center><h3>📚 Tech Stacks 📚</h3></div>
+<br><div align=center><h3>📚 Tech Stacks 📚</h3></div>
 <div align=center> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -11,7 +11,7 @@
  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <br>
 </div>
-<br><br><br>
+<br><br>
 <H3> Hi There 👋🏻 </H3>
 I am an aspiring software engineer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in computer science and art history.
 
@@ -20,7 +20,7 @@ My passion lies in solving problems with tailored algorithms and communicating c
 In my undergraduate studies, I’ve taken on various leadership roles including being President of KISAC (Korean International Society for Academics and Career), mentoring Korean undergraduate underclassmen via coffee chats, and coordinating institute-wide career events for international students.
 
 I graduated in May 2022 and I'm interested in full-time software engineering roles. Please feel free to get in touch with me via email at juon0805@gmail.com .
-<br><br><br><br>
+<br><br>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
@@ -30,4 +30,3 @@ I graduated in May 2022 and I'm interested in full-time software engineering rol
 
   <br>
   
-<br>
