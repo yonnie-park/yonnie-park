@@ -28,5 +28,5 @@ I graduated in May 2022 and I'm interested in full-time software engineering rol
 
 </div>
 
-  <br>
+  <br><br>
   
