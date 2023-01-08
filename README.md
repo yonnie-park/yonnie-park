@@ -1,5 +1,5 @@
 
-<br><div align=center><h3>📚 Tech Stacks 📚</h3></div>
+<br><div align=center><h2>📚 Tech Stacks 📚</h2></div>
 <div align=center> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -21,7 +21,7 @@ In my undergraduate studies at Columbia University, I’ve taken on various lead
 
 I graduated in May 2022 and I'm interested in full-time software engineering roles. Please feel free to get in touch with me via email at juon0805@gmail.com .
 <br>
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h2 align="center">👩‍💻 My Github Stats 👩‍💻</h2>
 <div align="center">
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yonnie-park&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/yonnie-park/github-readme-stats)
