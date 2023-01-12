@@ -23,8 +23,7 @@ I graduated in May 2022 and I'm interested in full-time software engineering rol
 <h2 align="center">👩‍💻 My Github Stats 👩‍💻</h2>
 <div align="center">
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yonnie-park&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/yonnie-park/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonnie-park&layout=compact&theme=tokyonight)
 </div>
 
   <br><br>
