@@ -20,11 +20,5 @@ In my undergraduate studies at Columbia University, I’ve taken on various lead
 
 I graduated in May 2022 and I'm interested in full-time software engineering roles. Please feel free to get in touch with me via email at juon0805@gmail.com .
 <br>
-<h2 align="center">👩‍💻 My Github Stats 👩‍💻</h2>
-<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonnie-park&layout=compact&theme=tokyonight)
-</div>
-
-  <br><br>
   
