@@ -20,3 +20,4 @@ In my undergraduate studies at Columbia University, I’ve taken on various lead
 I graduated in May 2022 and I'm interested in full-time software engineering roles. Please feel free to get in touch with me via email at juon0805@gmail.com .
 
 <br>
+<br>
