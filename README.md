@@ -11,12 +11,9 @@
 <br>
 </div>
 <br>
-I am an aspiring software engineer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in computer science and art history.
+I'm a frontend developer with a passion for creating seamless and user-friendly web experiences. I specialize in React, Javascript, CSS, and Next.js, and have a knack for bringing ideas to life with clean and efficient code.
 
-My passion lies in solving problems with tailored algorithms and communicating complex ideas to non-technical stakeholders.
+Lately, I've been eager to step into the world of WEB3 technologies and dive into the exciting world of decentralized applications. I've been learning Solidity and exploring the limitless possibilities of the blockchain, and I can't wait to bring my skills to the table and contribute to this dynamic and innovative space.
 
-In my undergraduate studies at Columbia University, I’ve taken on various leadership roles including being President of KISAC (Korean International Society for Academics and Career), mentoring Korean undergraduate underclassmen via coffee chats, and coordinating institute-wide career events for international students.
-
-I graduated in May 2022 and I'm interested in full-time software engineering roles. Please feel free to get in touch with me via email at juon0805@gmail.com .
-
+I'm always on the lookout for new challenges and opportunities to grow as a developer, and I believe that the WEB3 world has so much to offer. I'm excited to see where this journey takes me and I'm eager to collaborate and learn from others in the community.
 <br>
